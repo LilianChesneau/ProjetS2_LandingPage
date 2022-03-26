@@ -1,0 +1,13 @@
+img {
+  max-width:100%;
+  height:auto;
+}
+
+.fond{
+  position: absolute;
+  width: 100%;
+  z-index: -1;
+}
+.test{
+  position: relative;
+}
