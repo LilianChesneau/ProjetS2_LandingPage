@@ -5,7 +5,53 @@
 body{
   background-color: black;
   color: white;
+  font-family: var(--font-text);
+  font-size: var(--texte-normal);
+  font-weight: 600;
 }
+
+h1{
+  font-family: var(--font-titles);
+  font-weight: 800;
+  font-size: var(--titres-h1);
+  color: var(--red);
+  margin-bottom: 50px;
+}
+
+/*Section1*/
+.section1__article{
+  max-width: 40%;
+  margin-left: 200px;
+}
+.titre1{
+  margin-top: 100px;
+}
+.uppercase{
+  font-size: 3rem;
+  font-weight: 800;
+  text-align: center;
+}
+.triplet1{
+  margin-top: -5%;
+}
+.section1__boutton{
+  margin: auto;
+  margin-top: 5%;
+}
+.section1{
+  display: flex;
+
+}
+
+
+
+
+
+
+
+
+
+
 .bkblurr{
   width: 1440px; 
   height: 318px; 

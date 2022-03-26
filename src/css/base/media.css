@@ -11,3 +11,15 @@ img {
 .test{
   position: relative;
 }
+
+.section1__groupephoto{
+  text-align: right;
+}
+.section1__groupephoto__img1{
+  margin-top: 10%;
+  max-width: 90%;
+}
+.section1__groupephoto__img2{
+  max-width: 50%;
+  margin-top: -40%;
+}

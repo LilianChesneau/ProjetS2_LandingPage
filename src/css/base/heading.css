@@ -41,10 +41,10 @@
 
 
 .bot{
-  margin-top: -10%;
+  margin-top: -8%;
 }
 .bot__txt{
-  margin-left: 200px;
+  margin-left: 4%;
   font-family: var(--font-titles);
   letter-spacing: 5px;
   font-weight: 800;
@@ -55,12 +55,12 @@ strong{
   color: #e83b3b;
 }
 .bot__neon1{
-  max-width: 28.5%;
+  max-width: 27.9%;
 }
 .bot__neon2{
-  max-width: 54.5%;
+  max-width: 53.9%;
 }
 .chevrons{
   margin-left: 50%;
-  margin-top: 2%;
+  margin-top: 0.2%;
 }
