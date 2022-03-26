@@ -1,0 +1,28 @@
+:root{
+  /* Color styles */
+  --black: #000000;
+  --white: #FFFFFF;
+  --red: #E83B3B;
+  --blue: #239CE8;
+  --yellow: #E8E651;
+
+  /* Text-size styles */
+  /* base size: (16px) */
+  --titres-h1: 3.12rem;
+  --titres-h2: 2.5rem;
+  --titres-h3: 1.88rem;
+  --titres-composants: 1.56rem;
+  --texte-normal: 1.25rem;
+  --texte-faible: 0.94rem;
+  --texte-très-faible: 0.62rem;
+  --texte-forte: 1.25rem;
+  --boutons-l: 1.88rem;
+  --boutons-m: 1.25rem;
+  --boutons-s: 0.94rem;
+
+  /* Font-family styles */
+  --font-titles: 'Lexend Deca', sans-serif;
+  --font-buttons: 'Mina', sans-serif;
+  --font-text: 'Raleway', sans-serif;
+}
+
