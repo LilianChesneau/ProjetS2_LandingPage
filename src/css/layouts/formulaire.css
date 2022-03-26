@@ -1,0 +1,9 @@
+form{
+  margin-top: 100px;
+  background-color: var(--red);
+  padding-top: 2%;
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-bottom: 4%;
+  text-align: center;
+}

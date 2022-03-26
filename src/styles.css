@@ -11,4 +11,7 @@
 /*Base*/
 @import url(css/base/main.css);
 @import url(css/base/media.css);
- @import url(css/base/heading.css);
+
+/*Layouts*/
+@import url(css/layouts/formulaire.css);
+@import url(css/layouts/heading.css);
