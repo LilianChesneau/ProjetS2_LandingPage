@@ -2,3 +2,9 @@ body{
   background-color: black;
   color: white;
 }
+.bkblurr{
+  width: 1440px; 
+  height: 318px; 
+  background: linear-gradient(to right, #e83b3b 52.48%, #239ce8 71.01%, #e8e651 102.21%);
+  filter: blur(300px);
+}
