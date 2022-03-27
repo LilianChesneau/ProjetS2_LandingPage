@@ -46,9 +46,9 @@
 .bot__txt{
   margin-left: 10.5%;
   font-family: var(--font-titles);
-  font-weight: 800;
-  font-size: 4rem;
-  line-height: 50%;
+  font-weight: 700;
+  font-size: 5rem;
+  line-height: 30%;
 }
 strong{
   color: #e83b3b;
@@ -61,5 +61,5 @@ strong{
 }
 .chevrons{
   margin-left: 66.2%;
-  margin-top: 0.2%;
+  margin-top: -2%;
 }
