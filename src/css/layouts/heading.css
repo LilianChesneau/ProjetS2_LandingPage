@@ -2,7 +2,7 @@
   width: 100%;
   margin-top: -3%;
   margin-left: 40%;
-  margin-right: auto;
+  margin-right: 10.5%;
 }
 .top__logo{
   display: block;
@@ -44,7 +44,7 @@
   margin-top: -8%;
 }
 .bot__txt{
-  margin-left: 200px;
+  margin-left: 10.5%;
   font-family: var(--font-titles);
   font-weight: 800;
   font-size: 4rem;
@@ -60,6 +60,6 @@ strong{
   max-width: 53.9%;
 }
 .chevrons{
-  margin-left: 50%;
+  margin-left: 66.2%;
   margin-top: 0.2%;
 }
