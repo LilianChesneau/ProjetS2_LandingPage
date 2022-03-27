@@ -42,6 +42,23 @@ h1{
   display: flex;
 }
 
+/*Section2*/
+.section2{
+  display: flex;
+  gap: 5%;
+  margin-top: 3%;
+  margin-left: 200px;
+}
+.section2__gauche{
+  text-align: center;
+  max-width: 40%;
+}
+.section2__gauche__logo{
+  margin-top: -5%;
+}
+.section2__gauche__neon{
+  margin-top: 2%;
+}
 
 
 
