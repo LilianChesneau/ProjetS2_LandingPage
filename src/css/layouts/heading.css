@@ -1,7 +1,7 @@
 .top{
   width: 100%;
   margin-top: -3%;
-  margin-left: 40%;
+  margin-left: 40%;   
   margin-right: 10.5%;
 }
 .top__logo{
@@ -15,6 +15,15 @@
   color: var(--black);
   margin-top: -3%;
   margin-left: 9%;
+}
+.haut{
+  margin-bottom: 3%;
+
+}
+.deuxst{
+  text-align: center;
+  margin-left: -53%;
+  margin-top: 2%;
 }
 .button__link{
   display: flex; 
@@ -41,7 +50,7 @@
 
 
 .bot{
-  margin-top: -8%;
+  margin-top: -15%;
 }
 .bot__txt{
   margin-left: 10.5%;
@@ -54,7 +63,7 @@ strong{
   color: #e83b3b;
 }
 .bot__neon1{
-  max-width: 44.3%;
+  max-width: 39.5%;
 }
 .bot__neon2{
   max-width: 70%;
