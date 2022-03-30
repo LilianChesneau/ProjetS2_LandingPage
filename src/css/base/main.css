@@ -128,6 +128,8 @@ h4{
 /*Section3*/
 .hist{
   display: flex;
+  justify-content: center;
+  align-items: center;
   gap: 8%;
   margin-left: 10.5%;
   margin-right: 10.5%;
@@ -162,6 +164,10 @@ li{
   height: 200px; 
   background: linear-gradient(to right, #e83b3b 52.48%, #239ce8 71.01%, #e8e651 102.21%);
   filter: blur(200px);
+}
+.lastblurr{
+  position: relative;
+  margin-top: -15%;
 }
 
 .photoblurr{

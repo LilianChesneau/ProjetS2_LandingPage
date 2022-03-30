@@ -1,0 +1,27 @@
+.footer{
+  z-index: 3;
+}
+.divfooter__follow{
+  text-align: center;
+  font-family: var(--font-titles);
+  font-weight: 800;
+  font-size: var(--titres-h1);
+  color: var(--red);
+  margin-bottom: 50px;
+}
+.divfooter{
+  display: flex;
+  justify-content: center;
+  margin-top: -5%;
+  align-items: center;
+  margin-bottom: 5%;
+  max-width: 95%;
+}
+.divfooter__reseaux{
+  display: flex;
+  justify-content: center;
+  gap: 5%;
+}
+.logofooter{
+  max-width: 90%;
+}
